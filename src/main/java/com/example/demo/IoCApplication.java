@@ -19,8 +19,7 @@ public class IoCApplication {
     TextEditor_injection_IoC_constructorbased t4;
      @Autowired
     TextEditor_injection_IoC_setterbased t5;
-  
-      @Autowired
+ @Autowired
      TextEditor_injection_IoC_constructorbased_pac t6;
 
 	public static void main(String[] args) {
